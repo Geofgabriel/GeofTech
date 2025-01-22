@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Gabriel R. Gelpi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gabriel"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -20,15 +20,15 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+  # Biographic information al costadito de la pagina principal.
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Geophysicist with Data Science experience in the Energy Sector"
+  location         : "Buenos Aires, Argentina"
+  employer         : "NTT Data"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "grgelpi@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
