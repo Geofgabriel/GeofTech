@@ -9,29 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+Experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Expert Analyst 
+  * NTT Data Europe & Latam.
+  * Projects related to: 
+    - Time series forecasting and anomaly detection for oil and gas turbines maintance.  
+    - Seismic attribute based on clustering techniques.
+    - Computer Vision for objects extraction from images.
+    - Generative AI: AI agents within the Perforation and Workover group of an oil company.
+    - Generative AI: Avatars and voice bots for an oil company.
+  * Tech Stack: Azure (Speech-to-text Studio, AI Search, Open AI Studio, Webb App), Databricks, MLFlow, Python DS Stack (Tensorflow, Keras, Scikit-learn, Matplotlib, etc..) ,.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data Scientist
+  * Global Hitss Cono Sur
+  * Projects related to:
+    - Time series analysis for asynchronous breathing (ventsupport).  
+    - Development of reports and dashboards using MicroStrategy and Power BI
+    - Designed and maintenance of data pipelines (ETL), integrating diverse data services
+      and  tools. SQL and Data Wherehouse managment.
+    - NER and document classification using NLP and computer vision.
+    - Time series forecasting for utility consumption (water, electricity and gas).
+  * Tech Stack: Professor Hub
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
+* Geophysicist:Profesional de Apoyo
+  * IGEBA-CONICET 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+* Ph.D. Student
+  * CONICET 
+  * Duties included: Tagging issues
+  * Supervisor: Dr. Danilo Velis and Dr. Daniel Pérez.
+
+
+======================================================================
+
+Education
+======
+* Ph.D in Geophysics, National University of La PLata (UNLP), 2024.
+* Specialization in Data Intelligence oriented to Big Data, UNLP, 2025 (expected).
+* Degree in Geophysics (Kind of Bachelor + Master degree), UNLP, 2015.
+
+
+
 Skills
 ======
 * Skill 1
@@ -59,6 +81,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering
 ======
 * Currently signed in to 43 different slack teams
