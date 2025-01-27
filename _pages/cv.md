@@ -35,7 +35,9 @@ Experience
 
 * Geophysicist:Profesional de Apoyo
   * IGEBA-CONICET 
-  * Duties included: Tagging issues
+  * Duties included: 
+    - Processing, analysis and interpretation of geophysical data.
+    - Writing of technical reports, licitations and scientific works.
   * Supervisor: Professor Git
 
 * Ph.D. Student
