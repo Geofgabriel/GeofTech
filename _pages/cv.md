@@ -12,7 +12,7 @@ redirect_from:
 
 Experience
 ======
-* Expert Analyst 
+**Expert Analyst** 
   * NTT Data Europe & Latam.
   * Projects related to: 
     - Time series forecasting and anomaly detection for oil and gas turbines maintance.  
@@ -22,7 +22,7 @@ Experience
     - Generative AI: Avatars and voice bots for an oil company.
   * Tech Stack: Azure (Speech-to-text Studio, AI Search, Open AI Studio, Webb App), Databricks, MLFlow, Python DS Stack (Tensorflow, Keras, Scikit-learn, Matplotlib, etc..) ,.
 
-* Data Scientist
+**Data Scientist**
   * Global Hitss Cono Sur
   * Projects related to:
     - Time series analysis for asynchronous breathing (ventsupport).  
@@ -31,22 +31,24 @@ Experience
       and  tools. SQL and Data Wherehouse managment.
     - NER and document classification using NLP and computer vision.
     - Time series forecasting for utility consumption (water, electricity and gas).
-  * Tech Stack: Professor Hub
+  * Tech Stack: Python DS Stack, SSIS, MicroStrategy, Power BI, Azure Form Recognizer, SQL Oracle.
 
-* Geophysicist:Profesional de Apoyo
+
+**Geophysicist: Profesional de Apoyo**
   * IGEBA-CONICET 
   * Duties included: 
     - Processing, analysis and interpretation of geophysical data.
     - Writing of technical reports, licitations and scientific works.
-  * Supervisor: Professor Git
 
-* Ph.D. Student
+
+**Ph.D. Student**
   * CONICET 
-  * Duties included: Tagging issues
-  * Supervisor: Dr. Danilo Velis and Dr. Daniel Pérez.
+  * Duties included: 
+    - Research and development of computational algorithms for the processing, analysis, and interpretation of seismic data.
+    - Presentation of results at national and international conferences.
+    - Writing of scientific articles, reports, and conference abstracts.
+  * Supervisors: Dr. Danilo Velis and Dr. Daniel Pérez.
 
-
-======================================================================
 
 Education
 ======
@@ -56,33 +58,20 @@ Education
 
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+My publication can be found in my google scholar profile. [Click](https://scholar.google.com/citations?user=Zqg83gkAAAAJ&hl=en) here to go there.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Linear Algebra (University of Buenos Aires, UBA).
+* Introduction to Atmospheric Sciences (UNLP).
+* Elementary Mathematics (UNLP).
+
+
 Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* Project name: **Groundwater resources for small rural and aboriginal communities in Chaco province, Argentina**. Goal: Search of groundwater for the supply of rural communities of Miraflores in the Impenetrable. Geophysical methods: Vertical Electric Profile and Electric Tomography. If you are interested in this project you can read [here](https://library.seg.org/doi/abs/10.1190/segam2018-2992509.1).
